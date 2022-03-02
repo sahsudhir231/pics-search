@@ -29,7 +29,7 @@ You may also see any lint errors in the console.
 # Enjoy your website
 
 ### `Screenshot`
-![TREE SEARCH!] (images/demo ss.png)
-![cars SEARCH!] (images/demo ss 02.png)
+ (./images/demo ss.png)
+ (./images/demo ss 02.png)
 
 
