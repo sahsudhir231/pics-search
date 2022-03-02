@@ -1,10 +1,10 @@
 # Getting Started with pics-search 
  Install the node.js to run the project 
  
- ### Dependencies to install 
+ ### `Dependencies to install` 
  Install axios by "npm install --save axios".
 
- ### Add api-key 
+ ### `Add api-key `
  get the free api-from the unsplash.com
  Navigate to unsplash.js path:- "/src/api/"
 
@@ -27,3 +27,9 @@ You may also see any lint errors in the console.
 
 
 # Enjoy your website
+
+### `Screenshot`
+![TREE SEARCH!] (images/demo ss.png)
+![cars SEARCH!] (images/demo ss 02.png)
+
+
