@@ -29,7 +29,7 @@ You may also see any lint errors in the console.
 # Enjoy your website
 
 ### `Screenshot`
- (images/demo ss.PNG)
- (images/demo ss 02.PNG)
+ (images/ss01.PNG)
+ (images/ss02.PNG)
 
 
