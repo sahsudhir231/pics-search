@@ -29,9 +29,9 @@ You may also see any lint errors in the console.
 # Enjoy your website
 
 ### `Screenshot`
-<img src="images/ss01.PNG" width=700px height=600px/>
+<img src="images/ss01.PNG" width=600px height=500px/>
 <br/>
-<img src="images/ss02.PNG" width=700px height=600px/>
+<img src="images/ss02.PNG" width=600px height=500px/>
 
  <!-- ![](images/ss01.PNG)
  ![](images/ss02.PNG) -->
