@@ -29,6 +29,7 @@ You may also see any lint errors in the console.
 # Enjoy your website
 
 ### `Screenshot`
+<img src="images/ss01.PNG" width=100px height=200px/>
  ![](images/ss01.PNG)
  ![](images/ss02.PNG)
 
